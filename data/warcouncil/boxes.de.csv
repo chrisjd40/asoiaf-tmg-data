@@ -1,0 +1,153 @@
+Id,Name
+SIF001,Stark vs. Lennister Starterset
+SIF001A,Stark Starterset
+SIF001B,Lennister Starterset
+SIF002,Die Nachtwache Starterset
+SIF003,Freies Volk Starterset
+SIF005,Bolton Starterset
+SIF006,Targaryen Starterset
+SIF007,Martell Starterset
+SIF008,Baratheon Starterset
+SIF009,Graufreud Starterset
+SIF101,Geschworene Schwerter von Haus Stark
+SIF102,Vorreiter von Haus Stark
+SIF103,Berserker von Haus Umber
+SIF104,Großäxte von Haus Umber
+SIF105,Geschworene Schilde von Haus Tully
+SIF106,Bogenschützen von Haus Stark
+SIF107,Fährtenleser der Pfahlbaumänne
+SIF108,Ritter von Haus Tully
+SIF109,Helden von Haus Stark I
+SIF110,Helden von Haus Stark II
+SIF111,Bärinnen von Haus Mormont
+SIF112,Schläger von Haus Mormont
+SIF113,Loyalisten von Haus Karstark
+SIF114,Speerträger von Haus Karstark
+SIF115,Helden von Haus Stark III
+SIF116,Verstärkungen von Haus Stark I
+SIF117,Sumpfteufel der Pfahlbaumänner
+SIF118,Zerstörer von Haus Umber
+SIF201,Gardisten von Haus Lennister
+SIF202,Hellebardiere von Haus Lennister
+SIF203,Gefolgsmänner des Berges von Haus Clegane
+SIF204,Pyromantiker
+SIF205,Ritter von Casterlystein
+SIF206,Armbrustschützen von Haus Lennister
+SIF207,Die Söhne des Kriegers
+SIF208,Arme Gefährten
+SIF209,Helden von Haus Lennister I
+SIF210,Helden von Haus Lennister II
+SIF211,Rotröcke
+SIF212,Stadtwache von Lennishort
+SIF213,Ehrengarde von Casterlystein
+SIF214,Briganten von Haus Clegane
+SIF215,Helden von Haus Lennister III
+SIF216,Verstärkungen von Haus Lennister I
+SIF217,Goldröcke
+SIF301,Geschworene Brüder
+SIF302,Fährtenleser der Grenzer
+SIF303,Veteranen der Wache
+SIF304,Armbrustschützen der Baumeister
+SIF305,Jäger der Grenzer
+SIF306,Skorpionmannschaft der Baumeister
+SIF307,Steinwerfer der Baumeister
+SIF308,Rekruten der Wache
+SIF309,Helden der Nachtwache I
+SIF310,Helden der Nachtwache II
+SIF312,Vorhut der Grenzer
+SIF313,Speerträger des Schattenturms
+SIF315,Helden der Nachtwache III
+SIF316,Verstärkungen der Nachtwache I
+SIF401,Räuber des Freien Volkes
+SIF402,Leibwechsler
+SIF403,Fallensteller des Freien Volkes
+SIF404,Thenn Krieger
+SIF405,Speerfrauen
+SIF406,Wilde Riesen
+SIF407,Knochenmänner
+SIF408,Wilde Höhlenbewohner
+SIF409,Helden des Freien Volkes I
+SIF410,Helden des Freien Volkes II
+SIF411,Streitwagen der Eisigen Küste
+SIF412,Kriegsmammuts
+SIF413,Jäger der Eisigen Küste
+SIF414,Bärenreiter der Eisigen Küste
+SIF415,Helden des Freien Volkes III
+SIF416,Verstärkungen des Freien Volks I
+SIF417,Varamyr
+SIF418,Speerwerfender Riese
+SIF501,Halsabschneider von Haus Bolton
+SIF502,Mädchen des Bastards von Haus Bolton
+SIF503,Gehäutete von Haus Bolton
+SIF504,Rohlinge von Haus Bolton
+SIF505,Neutrale Helden I
+SIF506,Helden von Haus Bolton I
+SIF507,Heckenritter
+SIF508,Plänkler des blutigen Mummenschanzes
+SIF509,Zorsereiter des blutigen Mummenschanzes
+SIF510,Neutrale Helden II
+SIF511,Söldner der Sturmkrähen
+SIF512,Bogenschützen der Sturmkrähen
+SIF513,Derwische der Sturmkrähen
+SIF515,Neutrale Helden III
+SIF516,Schwertkämpfer der Goldenen Kompanie
+SIF517,Armbrustschützen der Goldenen Kompanie
+SIF518,Kriegselefanten der Goldenen Kompanie
+SIF519,Lysenische Söldner
+SIF521,Felsenkrähen
+SIF522,Speerträger von Grauenstein
+SIF523,Bogenschützen von Grauenstein
+SIF601,Schreier der Dothraki
+SIF602,Veteranen der Dothraki
+SIF603,Vorreiter der Dothraki
+SIF604,Hrakkars der Dothraki
+SIF605,Befreite
+SIF606,Pikeniere der Unbefleckten
+SIF607,Schwertmeister der Unbefleckten
+SIF608,Mutter der Drache
+SIF609,Helden von Haus Targaryen I
+SIF610,Helden von Haus Targaryen II
+SIF611,Messingtiere
+SIF612,Arenakämpfer
+SIF615,Helden von Haus Targaryen III
+SIF702,Sand-Plänkler
+SIF703,Derwische von Sonnspeer
+SIF704,Königliche Garde von Sonnspeer
+SIF705,Dünenvipern
+SIF706,Vorreiter von Sternfall
+SIF707,Ritter von Sternfall
+SIF708,Dunkelsterns Gefolgschaft
+SIF709,Helden von Haus Martell I
+SIF710,Helden von Haus Martell II
+SIF801,Wächter von Haus Baratheon
+SIF802,Schildwachen von Haus Baratheon
+SIF803,Hirschritter
+SIF804,Streiter des Hirsches
+SIF805,Männer des Königs
+SIF806,Männer der Königin
+SIF807,R’hllors Lichtbringer
+SIF808,Anhänger von R’hllor
+SIF809,Helden von Haus Baratheon I
+SIF810,Helden von Haus Baratheon II
+SIF811,Rosenritter
+SIF812,Armbrustschützen der Dornen-Garde
+SIF813,Reiter von Rosengarten
+SIF814,Pikeniere von Rosengarten
+SIF815,Helden von Haus Baratheon III
+SIF816,Verstärkungen von Haus Baratheon I
+SIF817,Hellebardiere von Haus Baratheon
+SIF820,Helden von Haus Baratheon IV
+SIF901,Plünderer der Eisenmänner
+SIF902,Bogenschützen der Eisenmänner
+SIF903,Eisenmacher
+SIF904,Fallensteller der Eisenmänner
+SIF905,Schnitter von Haus Harlau
+SIF906,Auserkorene von Haus Schwarzfluth
+SIF907,Ertrunkene
+SIF908,Stumme Männer
+SIF909,Helden von Haus Graufreud I
+SIF910,Helden von Haus Graufreud II
+SIF911,Plünderer der Steinigen Küste
+SIFKS001,Hand des Königs
+SIFKS019,Streiter des Glaubens
+SIFKS021,Hauptmann von Grauenstein

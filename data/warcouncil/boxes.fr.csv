@@ -1,0 +1,153 @@
+Id,Name
+SIF001,Boîte Stark vs Lannister
+SIF001A,Boîte de Base Stark
+SIF001B,Lannister Starter Set
+SIF002,Boîte de Base Garde de Nuit
+SIF003,Boîte de Base Peuple Libre
+SIF005,Boîte de Base Bolton
+SIF006,Boîte de Base Targaryen
+SIF007,Boîte de Base Martell
+SIF008,Boîte de Base Baratheon
+SIF009,Boîte de Base Greyjoy
+SIF101,Épées Liges Stark
+SIF102,Cavaliers Stark
+SIF103,Berserkers de la Maison Omble
+SIF104,Grandes Haches de la Maison Omble
+SIF105,Boucliers Liges de la Maison Tully
+SIF106,Archers Stark
+SIF107,Pisteurs Paludiers
+SIF108,Cavaliers de la Maison Tully
+SIF109,Héros Stark I
+SIF110,Héros Stark II
+SIF111,Ourses de la Maison Mormont
+SIF112,Cogneurs de la Maison Mormont
+SIF113,Loyalistes de la Maison Karstark
+SIF114,Lanciers de la Maison Karstark
+SIF115,Héros Stark Heroes III
+SIF116,Attachements Stark I
+SIF117,Paludiers Démons des Marais
+SIF118,Ravageurs de la Maison Omble
+SIF201,Gardes Lannister
+SIF202,Hallebardiers Lannister
+SIF203,Hommes de la Montagne de la Maison Clegane
+SIF204,Pyromanciens
+SIF205,Chevaliers de Castral Roc
+SIF206,Arbalétriers Lannister
+SIF207,Fils du Guerrier
+SIF208,Pauvres Hères
+SIF209,Héros Lannister I
+SIF210,Héros Lannister II
+SIF211,Manteaux Rouges Lannister
+SIF212,Guet de Port-Lannis
+SIF213,Garde d'Honneur de Castral Roc
+SIF214,Brigands de la Maison Clegane
+SIF215,Héros Lannister III
+SIF216,Attachements Lannister I
+SIF217,Manteaux d'Or
+SIF301,Frères Jurés
+SIF302,Patrouilleurs Pisteurs
+SIF303,Vétérans de la Garde
+SIF304,Arbalétriers Constructeurs
+SIF305,Patrouilleurs Chasseurs
+SIF306,Scorpion et Équipe de Constructeurs
+SIF307,Mangonneau des Constructeurs
+SIF308,Recrues
+SIF309,Héros de la Garde de Nuit I
+SIF310,Héros de la Garde de Nuit II
+SIF312,Éclaireurs Patrouilleurs
+SIF313,Lanciers de Tour Ombreuse
+SIF315,Héros de la Garde de Nuit III
+SIF316,Attachements de la Garde de Nuit I
+SIF401,Pillards du Peuple Libre
+SIF402,Change-peaux
+SIF403,Trappeurs du Peuple Libre
+SIF404,Guerriers Thenn
+SIF405,Piqueuses
+SIF406,Géant Sauvage
+SIF407,Disciples des Os
+SIF408,Sauvages Troglodytes
+SIF409,Héros du Peuple Libre I
+SIF410,Héros du Peuple Libre II
+SIF411,Chars de la Grève Glacée
+SIF412,Mammouths de Guerre
+SIF413,Chasseurs de La Grève Glacée
+SIF414,Oursières de la Grève Glacée
+SIF415,Héros du Peuple Libre III
+SIF416,Attachements du Peuple Libre I
+SIF417,Varamyr
+SIF418,Géants Lanceurs d'Épieux
+SIF501,Coupe-Jarrets de la Maison Bolton
+SIF502,Filles du Bâtard de la Maison Bolton
+SIF503,Écorchés de la Maison Bolton
+SIF504,Gardes Noirs de la Maison Bolton
+SIF505,Héros Neutres I
+SIF506,Héros Bolton I
+SIF507,Chevaliers Errants
+SIF508,Tirailleurs des Pitres Sanglants
+SIF509,Chevaucheurs de Zébrules des Pitres Sanglants
+SIF510,Héros Neutres II
+SIF511,Mercenaires Corbeaux Tornade
+SIF512,Archers Corbeaux Tornade
+SIF513,Derviches Corbeaux Tornade
+SIF515,Héros Neutres III
+SIF516,Maîtres d'Armes de la Compagnie Dorée
+SIF517,Arbalétriers de la Compagnie Dorée
+SIF518,Éléphants de Guerre de la Compagnie Dorée
+SIF519,Épées Louées de Lys
+SIF521,Freux
+SIF522,Piquiers de Fort Terreur
+SIF523,Archers de Fort Terreur
+SIF601,Hurleurs Dothraki
+SIF602,Vétérans Dothraki
+SIF603,Cavaliers Dothraki
+SIF604,Hrakkars Dothraki
+SIF605,Affranchis
+SIF606,Piquiers Immaculés
+SIF607,Maîtres d'Armes Immaculés
+SIF608,Mère des Dragons
+SIF609,Héros Targaryen I
+SIF610,Héros Targaryen II
+SIF611,Bêtes d'Airain
+SIF612,Gladiateurs
+SIF615,Héros Targaryens III
+SIF702,Tirailleurs des Sables
+SIF703,Derviches de Lancehélion
+SIF704,Garde Royale de Lancehélion
+SIF705,Vipères des Sables
+SIF706,Éclaireurs des Météores
+SIF707,Chevaliers des Météores
+SIF708,Escorte de Sombre Astre
+SIF709,Héros Martell I
+SIF710,Héros Martell II
+SIF801,Gardiens Baratheon
+SIF802,Sentinelles Baratheon
+SIF803,Chevaliers du Cerf
+SIF804,Champions du Cerf
+SIF805,Hommes du Roi
+SIF806,Hommes de la Reine
+SIF807,Illuminés de R'hllor
+SIF808,Fidèles de R'hllor
+SIF809,Héros Baratheon I
+SIF810,Héros Baratheon II
+SIF811,Chevaliers de la Rose
+SIF812,Garde des Épines
+SIF813,Cavaliers de Hautjardin
+SIF814,Piquiers de Hautjardin
+SIF815,Héros Baratheon III
+SIF816,Attachements Baratheon I
+SIF817,Hallebardiers Baratheon
+SIF820,Héros Baratheon IV
+SIF901,Ravageurs Fer-nés
+SIF902,Archers Fer-nés
+SIF903,Foregefers
+SIF904,Trappeurs Fer-nés
+SIF905,Faucheurs de la Maison Harloi
+SIF906,Élus des Noirmarées
+SIF907,Les Noyés
+SIF908,Hommes du Silence
+SIF909,Héros Greyjoy I
+SIF910,Héros Greyjoy II
+SIF911,Pillards des Roches
+SIFKS001,Main du Roi
+SIFKS019,Champion de la Foi
+SIFKS021,Capitaine de Fort-Terreur
