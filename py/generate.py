@@ -13,7 +13,7 @@ from song_data import *
 def get_filter(languages=None, ids=None, roles=None, factions=None, versions=None):
     def filter_func(context):
         entity: SongEntity = context["data"]
-        language = context.get("language")
+        language = context.get("meta").language
         sides = [
             "front",
             "back"
@@ -41,6 +41,8 @@ def get_filter(languages=None, ids=None, roles=None, factions=None, versions=Non
             elif entity.category == "siege-attacker":
                 return ["front"]
             elif entity.category == "siege-defender":
+                return ["front"]
+            elif entity.category == "tactics-board":
                 return ["front"]
 
         return sides
@@ -174,11 +176,12 @@ class Generator:
     def _default_saves(context, sides):
         entity: SongEntity = context["data"]
         lang = context.get("meta").language
+        is_game = context.get("meta").id == "game"
         out = {"front": [], "back": []}
         for side in sides:
             back_str = "b" if side == "back" else ""
             out[side].append({
-                "fp": f"./generated/{lang}/{entity.faction}/{entity.id}{back_str}.jpg"
+                "fp": f"./generated/{lang}/{'game' if is_game else entity.faction}/{entity.id}{back_str}.jpg"
             })
             # out[side].append({
             #     "fp": f"../ASOIAF-Nexus-UI/public/img/{entity.id}{back_str}x2.webp",
@@ -212,11 +215,14 @@ class Generator:
 
 
 def main():
+    overwrite = True
+    data = DataLoader.load_structured(f"./data/en/game.json")
+    Generator().generate(data, overwrite=overwrite)
     for lang in LANGUAGES:
         for faction in FACTIONS:
             data = DataLoader.load_structured(f"./data/{lang}/{faction}.json")
             generator = Generator()
-            generator.generate(data, overwrite=True)
+            generator.generate(data, overwrite=overwrite)
 
 
 if __name__ == "__main__":
